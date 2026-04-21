@@ -6,7 +6,7 @@ This repository contains the MATLAB/Simulink implementation of a 3‑DOF feedbac
 
 ## Project Overview
 
-- **Control Strategy**: Feedback linearisation to handle the non‑linear dynamics of the UAV.
+- **Control Strategy**: Feedback linearisation to handle the non‑linear dynamics of the UAV; differential flatness; MPC
 - **Trajectory**: Bézier curve, generated from a set of control points.
 - **Gain Synthesis**: PID gains derived analytically from closed‑loop specifications (rise time, settling time, overshoot).
 - **Validation**: The controller was first simulated in Simulink and then successfully tested on a physical robot, confirming stability and tracking precision.

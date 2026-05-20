@@ -8,7 +8,8 @@ This repository contains the MATLAB/Simulink implementation of a 3‑DOF feedbac
 
 - **Control Strategy**:
 ## Differential flatness
-[!MATLAB](DF.png)
+![MATLAB](DF.png)
+
 ## Feedback linearisation to handle the non‑linear dynamics of the UAV
 
   
